@@ -1,25 +1,27 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Angular esencial
 
-![course-name-alt-text][lil-thumbnail-url] 
+Este es el repositorio para el curso `Angular esencial` de LinkedIn Learning. El curso completo se puede encontrar en [LinkedIn Learning].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+(img) 
+
+
+
+_Revisa el archivo readme en el branch principal para instrucciones e información actualizada._
+
+## Instrucciones
+Este repositorio tiene branches por cada video del curso. Puedes usar el menú de branches en Github para cambiar a un branch especifico y darle una ojeada al curso en ese punto, o puedes agregar `tree/NOMBRE_DEL_BRANCH` al URL para ir al branch que deseas acceder.
 
 ## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Las ramas o branches estas estructuradas para corresponder a videos del curso, la convención de nombres es `CAPITULO#_LECCION#`. Por ejemplo el branch llamado `02_03` corresponde al segundo capitulo en su tercer video.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+El branch `main` contiene todos los ejercicios del curso.
 
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+## Instalación
+1. Para usar estos ejercicios, primero debes tener instalado:
+	- NodeJS
+	- Typescript
+	- Un editor de código como Visual studio Code
+2. Clona este repositorio en tu maquina local usando la terminal (Mac), CMD (Windows) o una herramienta GUI como SourceTree.
+3. Selecciona la carpeta correspondiente al proyecto que deseas trabajar y ábrela en la terminal.
+4. Ejecuta el comando `npm install` para instalar los paquetes necesarios para ejecutar Angular.
+5. Para activar el servidor local ejecuta el comando `npm serve`
