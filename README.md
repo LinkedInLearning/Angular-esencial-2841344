@@ -27,7 +27,7 @@ El branch `main` contiene todos los ejercicios del curso.
 
 ### Docente
 
-*Carlos Solís**
+**Carlos Solís**
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
